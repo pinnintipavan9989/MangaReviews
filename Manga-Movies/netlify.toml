@@ -1,6 +1,6 @@
 [build]
 command = "chmod +x ./mvnw && ./mvnw clean site"
-publish = "/classes"  # Adjust to your actual publish directory
+publish = "/target"  # Adjust to your actual publish directory
 
 [context.production.environment]
 MONGO_DATABASE="manga-db"
