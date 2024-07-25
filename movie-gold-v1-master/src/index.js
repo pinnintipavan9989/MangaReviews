@@ -17,6 +17,4 @@ root.render(
   </React.StrictMode>
 );
 
-// nothing
-
 
