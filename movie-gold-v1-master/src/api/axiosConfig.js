@@ -1,6 +1,6 @@
 import axios from 'axios';
 //just checking
-const baseURL = 'http://localhost:8080'; // New base URL
+const baseURL = 'https://manga-movies9.netlify.app/'; // New base URL
 
 const api = axios.create({
     baseURL: baseURL,
