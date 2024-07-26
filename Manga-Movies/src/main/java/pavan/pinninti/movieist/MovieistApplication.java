@@ -18,10 +18,13 @@ public class MovieistApplication {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
 				registry.addMapping("/**")
+						.allowedOrigins("https://66a3e7f8b3b71432ad2a5f0a--shiny-creponne-0e079d.netlify.app")
+						.allowedHeaders("Content-Type", "Authorization")
 						.allowedOrigins("*")
 						.allowedMethods("*")
 						.allowedHeaders("*")
-						.allowCredentials(false).maxAge(3600);
+						.allowCredentials(true)
+						.maxAge(3600);
 			}
 		};
 	}
