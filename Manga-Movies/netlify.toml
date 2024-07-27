@@ -9,7 +9,3 @@ MONGO_PASSWORD="16122114pP"
 MONGO_CLUSTER="cluster0.lecukr8.mongodb.net"
 JAVA_VERSION = "17"
 
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
