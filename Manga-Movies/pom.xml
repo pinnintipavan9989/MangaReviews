@@ -8,10 +8,10 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dev.farhan</groupId>
-	<artifactId>movieist</artifactId>
+	<groupId>dev.pavan</groupId>
+	<artifactId>manga</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movieist</name>
+	<name>manga</name>
 	<description>yet another IMDB clone</description>
 	<properties>
 		<java.version>22</java.version> <!-- Changed from 17 to 22 -->

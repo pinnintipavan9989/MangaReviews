@@ -21,7 +21,7 @@ public class MovieistApplication {
 						.allowedOrigins("*")
 						.allowedMethods("*")
 						.allowedHeaders("*")
-						.allowCredentials(false).maxAge(3600);
+						.allowCredentials(true).maxAge(3600);
 			}
 		};
 	}
