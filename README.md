@@ -14,7 +14,7 @@ The **MangaReviews Application** is a full-stack web application that allows use
 
 ### Frontend
 
-
+![Frontend ScreenShort](images/Frontend.jpg)
 - **HTML** for the structure
 - **CSS** for styling
 - **React.js** for building interactive UIs
@@ -22,7 +22,7 @@ The **MangaReviews Application** is a full-stack web application that allows use
 - **JavaScript** for dynamic content and handling user interactions
 
 ### Backend
-
+![Backend ScreenShort](images/Backend.jpg)
 - **Spring Boot** for backend development
 - **MongoDB** for database storage
 - **Docker** for containerizing the backend application
@@ -40,3 +40,9 @@ Before you begin, ensure you have the following installed:
 - **Docker** for containerization
 - **Maven** for building the backend project
 
+- **Web View**
+![Web View ScreenShort](images/webview.jpg)
+
+
+- **Review**
+![Review ScreenShort](images/review.png)
